@@ -1,114 +1,254 @@
-# ✨ Rithanya S | AI & ML Engineer in the Making
+<!-- ═══════════════════════ HERO SECTION ═══════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B8AFB&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+Intelligent+Systems;Learning+by+Building+%26+Experimenting;Turning+Ideas+into+Code+%E2%9C%A8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <em>A curious mind, a creative thinker, and a girl who loves teaching machines to think.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:17142B,50:493B78,100:9B8AFB&text=Rithanya%20S&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=AI%20%26%20ML%20Explorer%20%7C%20Developer%20%7C%20Dreamer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-## 🌷 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=The+girl+who+teaches+machines+to+think+%E2%9C%A8;Exploring+the+world+of+Artificial+Intelligence;Building+intelligent+%26+creative+solutions;Turning+curiosity+into+code+%F0%9F%92%9C" />
 
-Hi! I'm **Rithanya**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning.
+<br/>
 
-I'm passionate about exploring how technology can solve real-world problems, from intelligent prediction systems to autonomous agents and robotics.
+<img src="https://img.shields.io/badge/Computer%20Science-AI%20%26%20ML-9B8AFB?style=for-the-badge&labelColor=211C35"/>
+<img src="https://img.shields.io/badge/Graduating-2028-C4B5FD?style=for-the-badge&labelColor=211C35"/>
+<img src="https://img.shields.io/badge/Always-Learning-9B8AFB?style=for-the-badge&labelColor=211C35"/>
 
-- 🎓 B.E. CSE (Artificial Intelligence & Machine Learning)
-- 🤖 Exploring Machine Learning, Deep Learning and Generative AI
-- 🧠 Interested in Agentic AI, intelligent systems and software development
-- 🛠️ Building projects that turn ideas into practical solutions
-- 🌱 Constantly learning, experimenting and growing
+<br/><br/>
 
-**Currently building:** LIBRABOT | Exploring: AI/ML & Full-Stack Development
+*"A curious mind, a creative thinker, and a girl who loves teaching machines to think."*
 
----
+<br/>
 
-## 💻 Tech Stack
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rithanya77-05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithanya-s-03869a333)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rithanya77-05.github.io/PORTFOLIO/)
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**AI, Machine Learning & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-
-**Generative AI & Frameworks**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Database, Cloud & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-- 🤖 **LIBRABOT** — AI-powered autonomous library assistant
-- 🧠 **Multi-Agent Marketing Content Generation** — A seven-agent content generation workflow
-- 📊 **Music Popularity Prediction** — Machine learning-based song reach classification
-- ⚙️ **Bearing Fault Detection** — CNN, SCNN and SNN experimentation
-- 🌍 **CarbonAware** — Carbon footprint tracking and sustainability recommendations
+## ୨୧ &nbsp; A Little About Me
+
+<img align="right" alt="Coding girl" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+Hey there! I'm **Rithanya S**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning.
+
+I love exploring the intersection of intelligent systems, creative problem-solving and software engineering. From training machine learning models to experimenting with multi-agent systems, I enjoy turning ideas into working projects.
+
+- 🎓 Pursuing B.E. CSE (AI & ML)
+- 🧠 Exploring Machine Learning & Deep Learning
+- ✨ Building with Generative AI and Agentic AI
+- 🤖 Experimenting with Robotics and intelligent systems
+- 💻 Strengthening my problem-solving and development skills
+- 🌱 Learning something new with every project
+
+<br clear="right"/>
+
+<div align="center">
+
+| CURRENTLY | EXPLORING | INTERESTED IN |
+|:---:|:---:|:---:|
+| LIBRABOT 🤖 | Deep Learning 🧠 | Intelligent Systems ✨ |
+| AI Projects 💜 | Full-Stack Development 💻 | Software Engineering 🚀 |
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rithanya77-05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Rithanya77-05&theme=tokyonight&hide_border=true" />
-</p>
+## ୨୧ &nbsp; My Tech Universe
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithanya77-05&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+### ✦ Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" />
+
+### ✦ AI / ML & Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+
+### ✦ Generative AI & Agentic Systems
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=for-the-badge"/>
+
+### ✦ Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark" />
+
+### ✦ Database, Cloud & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,git,github,vscode,postman&theme=dark" />
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rithanya-s-03869a333">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_.rithanya.s._/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:rithanya.s2024aiml@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## ୨୧ &nbsp; Things I've Built
 
-<p align="center">
-  <em>"Every great innovation begins with curiosity."</em> ✨
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rithanya77-05&style=flat-square&color=9B8AFB&label=Profile+Views" />
-</p>
+*Every project is another opportunity to learn, experiment and create something meaningful.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 LIBRABOT
+**AI-Powered Autonomous Library Assistant**
+
+Exploring robotics, autonomous navigation and computer vision to help users locate books in a library environment.
+
+`Python` `ROS 2` `Gazebo` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Multi-Agent Content Generation
+**AI-Powered Marketing Intelligence**
+
+A seven-agent workflow designed to understand products, research audiences, explore trends and generate marketing content.
+
+`Python` `LangChain` `Groq` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Music Popularity Prediction
+**Machine Learning Classification**
+
+Analysing song characteristics to predict popularity or reach using machine learning algorithms.
+
+`Python` `Pandas` `Scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Bearing Fault Detection
+**CNN vs SCNN vs SNN**
+
+Comparing conventional and spiking neural network architectures for classifying industrial bearing vibration signals.
+
+`Python` `PyTorch` `TensorFlow` `Deep Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 CarbonAware
+**Carbon Footprint & Sustainability Tracker**
+
+A sustainability platform that estimates environmental impact and provides personalized recommendations.
+
+`React` `JavaScript` `Sustainability`
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Globetrotter
+**Full-Stack Travel Planning Platform**
+
+A travel planning application for discovering destinations and creating personalized itineraries based on preferences and budgets.
+
+`React` `Node.js` `Express` `MySQL`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**More experiments, ideas and projects coming soon...** ✨
+
+</div>
+
+---
+
+<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+
+## ୨୧ &nbsp; My GitHub Universe
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rithanya77-05&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Rithanya77-05&theme=midnight-purple&hide_border=true" />
+
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithanya77-05&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rithanya77-05&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
+
+## ୨୧ &nbsp; My Contribution Journey
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithanya77-05&bg_color=17142B&color=C4B5FD&line=9B8AFB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+## ୨୧ &nbsp; Let's Connect!
+
+<div align="center">
+
+*Have an interesting idea, a project to collaborate on, or just want to talk about technology? I'd love to connect!*
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rithanya-s-03869a333">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_.rithanya.s._/">
+<img src="https://img.shields.io/badge/Instagram-Follow%20Along-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:rithanya.s2024aiml@sece.ac.in">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rithanya77-05&style=for-the-badge&color=9B8AFB&label=PROFILE+VISITORS"/>
+
+<br/><br/>
+
+### 𓆩♡𓆪
+
+**"Every great innovation begins with curiosity."**
+
+*Keep learning. Keep building. Keep dreaming.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8AFB,50:493B78,100:17142B&height=120&section=footer"/>
+
+</div>
